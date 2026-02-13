@@ -1,5 +1,5 @@
 FROM centos
-
+This is a test
 ENV DOCTL_VERSION 1.8.3
 
 WORKDIR /root
